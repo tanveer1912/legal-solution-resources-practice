@@ -1,0 +1,46 @@
+:root {
+    --btn-color: #B68C5A;
+    --poppins: 'Poppins', sans-serif;
+    --second-font: 'EB Garamond', serif;
+    --bg: #F3F3F3;
+}
+
+
+.background-image {
+    background-image: url(../images/banner.png);
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+
+.circle {
+    height: 40px;
+
+}
+
+.second-col {
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0.00) 100%);
+
+}
+
+.image {
+    height: 60px;
+    width: 60px;
+}
+
+.image1 {
+    border-radius: 8px;
+    height: 70vh;
+    width: 100%;
+}
+
+.poppins {
+    font-family: var(--poppins);
+}
+
+.eb-garamon {
+    font-family: var(--second-font);
+}
+
+.bg-color {
+    background-color: var(--bg);
+}
