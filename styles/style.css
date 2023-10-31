@@ -44,3 +44,11 @@
 .bg-color {
     background-color: var(--bg);
 }
+
+.footer {
+    height: 100vh;
+}
+
+.footer-image {
+    height: 50px;
+}
